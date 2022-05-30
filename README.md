@@ -17,3 +17,7 @@ This project is using for Git Basic command practice
 
 1. Use command line to complete the related operations.
 2. Follow the [Git Best Practices](https://github.com/iamcoach/git) as much as possible when you are using Git.
+
+# Changelog
+
+1. Edward fix a bug in practice-1.js
